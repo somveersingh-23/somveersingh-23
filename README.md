@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Somveer Singh</h1>
 <h3 align="center">💻 Computer Science Engineering Student | Developer | Innovator</h3>
-<h4 align="center">Learning to code is a journey. Be patient with yourself and <br>
-stay persistent, even when things get tough. 
-</h4>
+
 <p align="center">
 🚀 Passionate about Software Development, AI/ML, Full Stack Web Development, and Android App Development.<br>
 🌱 Currently learning advanced concepts in AI, ML, and full-stack app development.<br>
