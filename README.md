@@ -22,7 +22,7 @@ I build **production-ready mobile apps** and **research‑oriented machine learn
 * Deep Learning with CNNs
 * Biological Sequence Analysis (DNA/RNA)
 * Feature engineering & model evaluation
-* Research‑oriented ML projects (CSIR/IGIB aligned)
+* Research‑oriented ML projects 
 
 ---
 
