@@ -1,123 +1,164 @@
 # 👋 Hi, I'm Somveer Singh
 
-🚀 **Mobile App Developer | Machine Learning Enthusiast | Computer Science Engineering Student**
+### 🤖 AI Engineer & Software Developer
 
-I build **production-ready mobile apps** and **research‑oriented machine learning projects** with a strong focus on real‑world impact. My work blends **software engineering** with **AI/ML**, especially in healthcare,Agriculture,computer science and intelligent systems.
+I build **intelligent, production-oriented applications** that combine **Artificial Intelligence, Machine Learning, and software engineering**.
 
----
+My work focuses on turning ideas into practical systems — from **AI/ML models and research projects** to **mobile applications, APIs, and scalable software solutions**.
 
-## 🔥 What I Do Best
-
-### 📱 Mobile App Development
-
-* Android (Java)
-* Flutter (Cross‑platform)
-* Firebase & Supabase backend integration
-* REST APIs, authentication, camera & sensor APIs
-* Internship experience building real‑world apps
-
-### 🤖 Machine Learning & AI
-
-* Supervised & Unsupervised Learning
-* Deep Learning with CNNs
-* Biological Sequence Analysis (DNA/RNA)
-* Feature engineering & model evaluation
-* Research‑oriented ML projects 
+<p align="left">
+  <a href="https://singh-somveer.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/somveer-singh-0205971ab/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/somveersingh-23">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:kaidwal.somveer@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 What I Build
 
-**Languages**
-Java • Python • C • Dart • Kotlin 
+**AI & Machine Learning**
+Designing and implementing ML/DL solutions for real-world problems, with experience in CNNs, computer vision, biological data, and model evaluation.
 
-**Mobile**
-Android Studio • Flutter • Firebase • Supabase
+**Software Engineering**
+Building complete applications with clean architecture, REST APIs, databases, authentication, and modern development practices.
 
-**ML / AI**
-NumPy • Pandas • Matplotlib • Scikit‑learn • TensorFlow
-
-**Web**
-HTML • CSS • React • Node.js • Express • Spring Boot
-
-**Tools**
-Git • GitHub • Jupyter Notebook • VS Code • IntelliJ IDEA
+**Intelligent Applications**
+Combining AI models with mobile and web applications to create useful, accessible, and scalable products.
 
 ---
 
-## 🌟 Featured Projects
+## 🛠️ Tech Stack
 
-### 🧬 DNA Promoter Classification (ML Research Project)
+### Languages
 
-* Built a CNN model to classify **human DNA promoter sequences**
-* Learned and visualized **biological motifs** from convolutional filters
-* Used promoter datasets inspired by **Nucleotide Transformer (Human)**
-* Included motif plots, accuracy curves, and biological interpretation
+`Python` `Java` `Kotlin` `Dart` `C` `SQL`
 
-**Domain:** Machine Learning • Bioinformatics • Deep Learning
+### AI / Machine Learning
 
----
+`TensorFlow` `Scikit-learn` `NumPy` `Pandas` `Matplotlib` `CNN` `Deep Learning`
 
-### 📱 Defecto – Road Defect Reporting App
+### Software Development
 
-* Android app developed during internship at **CSIR‑CRRI**
-* Users can capture, upload, and track road defects
-* Integrated camera, GPS, and Firebase backend
+`Android` `Flutter` `React` `Node.js` `Express` `Spring Boot`
 
-**Domain:** Mobile App Development • Flutter • Firebase
+### Backend & Databases
 
----
+`Firebase` `Supabase` `MongoDB` `REST APIs`
 
-### 🫁 LungScan AI – Pneumonia Classification
-A medical imaging **Machine Learning project** for detecting pneumonia from chest X-ray images using deep learning.
+### Tools
 
-- Implemented **CNN-based image classification**
-- Image preprocessing, normalization, and augmentation
-- Evaluated using accuracy, precision, recall, and confusion matrix
-- Designed for healthcare screening and academic research use
-
-🎯 **Tech Stack:** Python, TensorFlow/Keras, CNN, NumPy, Matplotlib
+`Git` `GitHub` `VS Code` `IntelliJ IDEA` `Android Studio` `Jupyter Notebook`
 
 ---
 
-### 🌾 AgroFiesta – Smart Agriculture Mobile App
-A smart agriculture **mobile application** designed to assist farmers with crop-related guidance and digital tools.
+## ⭐ Featured Projects
 
-- Farmer-friendly and simple UI
-- Crop information and agricultural insights
-- Focus on rural accessibility and scalability
-- Concept-driven agri-tech solution
+### 🧬 DNA Promoter Classification
 
-🎯 **Tech Stack:** Flutter / Android, Firebase, REST APIs
+**Deep Learning • Bioinformatics • Research**
 
----
+A research-oriented deep learning project for classifying human DNA promoter sequences.
 
-### 🛣️ Defecto – Road Defect Reporting App
-An Android application developed during an internship at **CSIR-CRRI** for reporting and managing road defects.
-
-- Real-time defect reporting with images
-- Location-based data capture (GPS)
-- Categorization of road defects
-- Supports smart infrastructure monitoring
-
-🎯 **Tech Stack:** Flutter, Firebase, Camera API, Maps
-
-
-## 🎯 Current Focus
-
-* Advanced Android & Flutter development
-* Deep Learning for biological data
-* Research internships & industry‑grade projects
+* Built a **CNN-based classification model**
+* Explored biological motifs learned through convolutional filters
+* Worked with promoter sequence datasets inspired by **Nucleotide Transformer**
+* Generated accuracy curves, motif visualizations, and model analysis
+* Focused on combining **machine learning with biological sequence analysis**
 
 ---
 
-## 🌐 Portfolio & Links
+### 🫁 LungScan AI
 
-* 🌍 Portfolio: [https://singh-somveer.netlify.app/](https://singh-somveer.netlify.app/)
-* 💼 LinkedIn: [https://www.linkedin.com/in/somveer-singh-0205971ab/](https://www.linkedin.com/in/somveer-singh-0205971ab/)
-* 💻 GitHub: [https://github.com/somveersingh-23](https://github.com/somveersingh-23)
-* 📧 Email: [kaidwal.somveer@gmail.com](mailto:kaidwal.somveer@gmail.com)
+**Deep Learning • Computer Vision • Medical AI**
+
+A medical imaging project for pneumonia classification from chest X-ray images.
+
+* Implemented **CNN-based image classification**
+* Applied image preprocessing, normalization, and augmentation
+* Evaluated models using accuracy, precision, recall, and confusion matrix
+* Designed as an academic/research-oriented healthcare AI solution
+
+**Stack:** Python • TensorFlow/Keras • CNN • NumPy • Matplotlib
 
 ---
 
-⭐ *If you like my work, consider starring my repositories!*
+### 🛣️ Defecto
+
+**Mobile Development • Computer Vision • Smart Infrastructure**
+
+A road-defect reporting application developed during my internship at **CSIR-CRRI**.
+
+* Real-time road defect reporting
+* Image capture and upload
+* GPS-based location tracking
+* Firebase backend integration
+* Road-defect categorization and monitoring
+
+**Stack:** Flutter • Firebase • Camera API • GPS • Maps
+
+---
+
+### 🌾 AgroFiesta
+
+**AI • Agriculture • Mobile Development**
+
+A smart agriculture application designed to provide farmers with accessible digital tools and crop-related information.
+
+* Farmer-focused and simple interface
+* Crop information and agricultural insights
+* Designed with rural accessibility in mind
+* Built with scalability and practical usability as key considerations
+
+**Stack:** Flutter • Android • Firebase • REST APIs
+
+---
+
+## 🎯 Currently Exploring
+
+* Advanced **AI & Machine Learning**
+* Deep Learning & Computer Vision
+* Generative AI & **RAG-based systems**
+* AI-powered software applications
+* Backend & API development
+* Research-oriented machine learning
+
+---
+
+## 💡 My Approach
+
+> **Learn → Build → Experiment → Improve**
+
+I enjoy taking a problem from an initial idea to a **working software solution**, while continuously improving my understanding of AI, engineering, and system design.
+
+I'm particularly interested in projects where **AI solves a meaningful real-world problem**.
+
+---
+
+## 🌐 Connect With Me
+
+🌍 **Portfolio:** https://singh-somveer.netlify.app/
+
+💼 **LinkedIn:** https://www.linkedin.com/in/somveer-singh-0205971ab/
+
+💻 **GitHub:** https://github.com/somveersingh-23
+
+📧 **Email:** [kaidwal.somveer@gmail.com](mailto:kaidwal.somveer@gmail.com)
+
+---
+
+<p align="center">
+  <i>Building intelligent software, one project at a time.</i>
+</p>
+
+<p align="center">
+  ⭐ If you find my projects interesting, consider starring a repository!
+</p>
