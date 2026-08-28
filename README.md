@@ -1,291 +1,415 @@
-<!-- ============================================================ -->
-<!--   SOMVEER SINGH — AI ENGINEER & SOFTWARE DEVELOPER          -->
-<!--   Animated Professional GitHub Profile README               -->
-<!-- ============================================================ -->
+<!-- ========================================================= -->
+
+<!--                    SOMVEER SINGH                          -->
+
+<!--           AI ENGINEER • SOFTWARE DEVELOPER               -->
+
+<!-- ========================================================= -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:312e81,70:7c3aed,100:06b6d4&height=250&section=header&text=Somveer%20Singh&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI%20Engineer%20%7C%20Software%20Developer%20%7C%20Builder%20of%20Intelligent%20Systems&descAlignY=52&descSize=18" width="100%" alt="Animated profile header" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0f172a,55:312e81,78:7c3aed,100:06b6d4&height=240&section=header&text=Somveer%20Singh&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Software%20Developer&descAlignY=61&descSize=21&descColor=c4b5fd" width="100%" alt="Somveer Singh animated profile header"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=850&color=67E8F9&center=true&vCenter=true&width=850&lines=Building+intelligent+software+systems;Machine+Learning+%7C+Deep+Learning+%7C+GenAI;RAG+%7C+LLMs+%7C+Vector+Search+%7C+Agentic+AI;Turning+real-world+problems+into+useful+products;AI+Engineering+%2B+Software+Engineering" alt="Animated introduction"/>
+
+<br/>
+
+<a href="https://singh-somveer.netlify.app/">
+  <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-7C3AED?style=for-the-badge&labelColor=020617" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/somveer-singh-0205971ab/">
+  <img src="https://img.shields.io/badge/💼%20LINKEDIN-0EA5E9?style=for-the-badge&labelColor=020617" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/somveersingh-23">
+  <img src="https://img.shields.io/badge/💻%20GITHUB-F8FAFC?style=for-the-badge&labelColor=020617&logo=github&logoColor=ffffff" alt="GitHub"/>
+</a>
+<a href="mailto:kaidwal.somveer@gmail.com">
+  <img src="https://img.shields.io/badge/✉️%20EMAIL-F43F5E?style=for-the-badge&labelColor=020617" alt="Email"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=somveersingh-23&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/somveersingh-23?label=FOLLOWERS&style=for-the-badge&color=06B6D4&labelColor=020617" alt="GitHub followers"/>
+<img src="https://img.shields.io/github/stars/somveersingh-23?label=TOTAL%20STARS&style=for-the-badge&color=F59E0B&labelColor=020617" alt="GitHub stars"/>
+
 </div>
+
+---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=780&lines=Building+intelligent+systems+with+Python;Deep+Learning+%7C+NLP+%7C+LLMs+%7C+GenAI;RAG+%7C+Vector+Databases+%7C+Agentic+AI;Full-Stack+Engineering+%7C+Cloud+%7C+DevOps;Turning+real-world+problems+into+powerful+products" alt="Animated typing introduction" />
+
+### ⚡ AI ENGINEER • SOFTWARE DEVELOPER • BUILDER
+
+> **I build intelligent systems that connect AI, software engineering, and real-world impact.**
+
 </div>
 
-<p align="center">
-  <a href="https://singh-somveer.netlify.app/"><img src="https://img.shields.io/badge/🌍_Portfolio-0F172A?style=for-the-badge&logoColor=67E8F9" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/somveer-singh-0205971ab/"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" /></a>
-  <a href="https://github.com/somveersingh-23"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=F8FAFC" alt="GitHub" /></a>
-  <a href="mailto:kaidwal.somveer@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=FB7185" alt="Email" /></a>
-  <a href="https://singh-somveer.netlify.app/resume.pdf"><img src="https://img.shields.io/badge/Resume-0F172A?style=for-the-badge&logo=readdotcv&logoColor=A78BFA" alt="Resume" /></a>
-</p>
+---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=somveersingh-23&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/somveersingh-23?label=Followers&style=for-the-badge&color=06b6d4&labelColor=0f172a" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/Open_to-Work-22c55e?style=for-the-badge&labelColor=0f172a" alt="Open to work" />
-</div>
-
-<br />
-
-<!-- ============================================================ -->
-<!--   ABOUT + SNAPSHOT                                            -->
-<!-- ============================================================ -->
+## 🧠 About Me
 
 <table>
 <tr>
-<td width="56%" valign="top">
+<td width="60%" valign="top">
 
-### 👋 About Me
+I’m an **AI Engineer and Software Developer** focused on creating practical, production-oriented applications that combine **artificial intelligence with strong software engineering**.
 
-I'm an **AI Engineer and Software Developer** focused on building intelligent, production-oriented applications that combine artificial intelligence with strong software engineering fundamentals.
+I enjoy working across the complete development lifecycle:
 
-I work across the complete journey — from research to shipped product:
+* 🧠 Training and evaluating machine learning models
+* 🔬 Exploring deep learning, computer vision, NLP, and biological data
+* 🤖 Building LLM, RAG, and Generative AI applications
+* ⚡ Developing APIs, mobile applications, and full-stack products
+* ☁️ Deploying practical systems using cloud and DevOps technologies
+* 🌱 Applying AI to healthcare, agriculture, and smart infrastructure
 
-- 🧠 Training and evaluating machine learning & deep learning models
-- 🔬 Exploring computer vision, NLP, LLMs, and biological data
-- ⚡ Building APIs, mobile apps, and full-stack products end to end
-- ☁️ Deploying practical systems with cloud and DevOps tooling
-- 🌱 Applying AI to healthcare, agriculture, and smart infrastructure
+<br/>
 
-> **My mission:** turn ambitious ideas into useful, accessible, and scalable technology.
+### 🎯 My Mission
+
+> **Turn ambitious ideas into useful, accessible, scalable technology.**
 
 </td>
-<td width="44%" valign="top">
 
-### ⚡ Quick Snapshot
+<td width="40%" valign="top">
+
+### ⚡ QUICK SNAPSHOT
 
 ```yaml
 name: Somveer Singh
-role: AI Engineer & Software Developer
-focus: Applied AI + Product Engineering
-mindset: Learn → Build → Experiment → Improve
-based_in: India
-currently_exploring:
-  - LLM applications & agentic AI
-  - RAG systems & vector search
-  - Cloud-native deployment
-  - AI for healthcare & agriculture
-open_to:
-  - AI/ML engineering roles
-  - Full-stack collaborations
-  - Research internships
+
+role:
+  - AI Engineer
+  - Software Developer
+
+focus:
+  - Applied AI
+  - Product Engineering
+
+interests:
+  - Machine Learning
+  - Deep Learning
+  - GenAI
+  - RAG
+  - Agentic AI
+  - Cloud
+
+mindset:
+  - Learn
+  - Build
+  - Experiment
+  - Improve
 ```
 
 </td>
 </tr>
 </table>
 
-<!-- ============================================================ -->
-<!--   ENGINEERING UNIVERSE TABLE                                  -->
-<!-- ============================================================ -->
+---
 
-## 🧊 AI & Engineering Universe
+## 🚀 What I Build
 
 <div align="center">
 
-| 🧠 Intelligence | ⚙️ Engineering | ☁️ Delivery |
-|:---:|:---:|:---:|
-| Machine Learning (Python) | FastAPI & REST APIs | Linux |
-| Deep Learning (CNNs, Transformers) | Android & Flutter | Docker |
-| NLP & LLMs | React & Node.js | AWS |
-| GenAI & RAG | Oracle & MySQL | Git & GitHub |
-| Agentic AI | Firebase & MongoDB | CI/CD Pipelines |
-| Vector Databases | Clean Architecture | Production Mindset |
+| 🧠 AI & Intelligence | ⚙️ Software Engineering | ☁️ Deployment & Infrastructure |
+| :------------------: | :---------------------: | :----------------------------: |
+|   Machine Learning   |   FastAPI & REST APIs   |              Linux             |
+|     Deep Learning    |    Android & Flutter    |             Docker             |
+|      NLP & LLMs      |     React & Node.js     |               AWS              |
+|     Generative AI    |   Databases & Backend   |          Git & GitHub          |
+|      RAG Systems     |    Clean Architecture   |        Cloud Deployment        |
+|      Agentic AI      |   Product Development   |       Production Mindset       |
+|     Vector Search    | Full-Stack Applications |             DevOps             |
 
 </div>
 
-<!-- ============================================================ -->
-<!--   TECH STACK                                                  -->
-<!-- ============================================================ -->
+---
 
-## 🛠️ Tech Stack
+# 🛠️ Technology Stack
 
-### Languages & Development
+## 💻 Languages & Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,kotlin,java,js,ts,dart,c,sql,react,nodejs,express,fastapi,flutter,androidstudio" alt="Languages and development tools" />
+  <img src="https://skillicons.dev/icons?i=python,kotlin,java,js,dart,c,sql,react,nodejs,express,fastapi,flutter,androidstudio" alt="Programming languages and development technologies"/>
 </p>
 
-### AI, Data & Research
+---
+
+## 🤖 AI • Data • Research
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" alt="AI and computer vision tools" />
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/NLP-7C3AED?style=flat-square&logoColor=white" alt="NLP" />
-<img src="https://img.shields.io/badge/LLMs-06B6D4?style=flat-square&logoColor=white" alt="LLMs" />
-<img src="https://img.shields.io/badge/Generative_AI-EC4899?style=flat-square&logoColor=white" alt="Generative AI" />
-<img src="https://img.shields.io/badge/RAG-F97316?style=flat-square&logoColor=white" alt="RAG" />
-<img src="https://img.shields.io/badge/Vector_Databases-14B8A6?style=flat-square&logoColor=white" alt="Vector databases" />
-<img src="https://img.shields.io/badge/Agentic_AI-8B5CF6?style=flat-square&logoColor=white" alt="Agentic AI" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white" alt="LangChain" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" alt="AI and machine learning technologies"/>
 </p>
-
-### Backend, Databases & DevOps
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,docker,aws,git,github,mongodb,firebase" alt="Backend and DevOps tools" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
-<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white" alt="Anaconda" />
-<img src="https://img.shields.io/badge/Spyder-FF0000?style=flat-square&logo=spyderide&logoColor=white" alt="Spyder" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
+
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NLP-7C3AED?style=for-the-badge&logoColor=white" alt="NLP"/>
+<img src="https://img.shields.io/badge/LLMs-06B6D4?style=for-the-badge&logoColor=white" alt="Large Language Models"/>
+<img src="https://img.shields.io/badge/Generative%20AI-EC4899?style=for-the-badge&logoColor=white" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/RAG-F97316?style=for-the-badge&logoColor=white" alt="Retrieval Augmented Generation"/>
+<img src="https://img.shields.io/badge/Vector%20Databases-14B8A6?style=for-the-badge&logoColor=white" alt="Vector databases"/>
+<img src="https://img.shields.io/badge/Agentic%20AI-8B5CF6?style=for-the-badge&logoColor=white" alt="Agentic AI"/>
+
 </p>
 
-<!-- ============================================================ -->
-<!--   FEATURED PROJECTS                                           -->
-<!-- ============================================================ -->
+---
 
-## 🚀 Featured Projects
+## ⚙️ Backend • Databases • DevOps
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,docker,aws,git,github,mongodb,firebase" alt="Backend, database and DevOps technologies"/>
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"/>
+<img src="https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyderide&logoColor=white" alt="Spyder"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+### Selected AI & Software Engineering Work
+
+</div>
 
 <details open>
-<summary><b>🧬 DNA Promoter Classification</b> · Deep Learning • Bioinformatics • Research</summary>
-<br />
+<summary><b>🧬 DNA Promoter Classification</b> — Deep Learning • Bioinformatics • Research</summary>
 
-A research-oriented CNN project for classifying human DNA promoter sequences.
+<br/>
 
-- Learned biological motifs through convolutional filters
-- Worked with datasets inspired by Nucleotide Transformer
-- Generated accuracy curves, motif visualizations, and model analysis
+A research-oriented **CNN-based deep learning project** for classifying human DNA promoter sequences.
 
-<code>Python</code> <code>TensorFlow/Keras</code> <code>CNN</code> <code>Bioinformatics</code>
+**Highlights**
+
+* Learned biological motifs using convolutional filters
+* Worked with datasets inspired by Nucleotide Transformer
+* Generated accuracy curves and motif visualizations
+* Performed model analysis for biological pattern discovery
+
+**Technology**
+
+`Python` `TensorFlow/Keras` `CNN` `Bioinformatics`
 
 </details>
 
-<br />
+<br/>
 
 <details open>
-<summary><b>🫁 LungScan AI</b> · Deep Learning • Computer Vision • Medical AI</summary>
-<br />
+<summary><b>🫁 LungScan AI</b> — Deep Learning • Computer Vision • Medical AI</summary>
 
-A healthcare AI project for pneumonia classification from chest X-ray images.
+<br/>
 
-- Applied preprocessing, normalization, and augmentation
-- Evaluated accuracy, precision, recall, and confusion matrix
-- Designed as an academic and research-oriented medical AI solution
+A healthcare AI project focused on **pneumonia classification from chest X-ray images**.
 
-<code>Python</code> <code>TensorFlow/Keras</code> <code>CNN</code> <code>Computer Vision</code>
+**Highlights**
+
+* Applied preprocessing and normalization
+* Used image augmentation to improve model robustness
+* Evaluated accuracy, precision, recall, and confusion matrix
+* Designed as an academic and research-oriented medical AI solution
+
+**Technology**
+
+`Python` `TensorFlow/Keras` `CNN` `Computer Vision`
 
 </details>
 
-<br />
+<br/>
 
 <details open>
-<summary><b>🛣️ Defecto</b> · Mobile Development • Computer Vision • Smart Infrastructure</summary>
-<br />
+<summary><b>🛣️ Defecto</b> — Mobile Development • Computer Vision • Smart Infrastructure</summary>
 
-A road-defect reporting application developed during my internship at CSIR-CRRI.
+<br/>
 
-- Real-time defect reporting with image capture and upload
-- GPS-based tracking, categorization, and monitoring
-- Firebase integration for application data and services
+A road-defect reporting application developed during my internship at **CSIR-CRRI**.
 
-<code>Flutter</code> <code>Firebase</code> <code>Camera API</code> <code>GPS</code> <code>Maps</code>
+**Highlights**
+
+* Real-time road defect reporting
+* Image capture and upload
+* GPS-based tracking and categorization
+* Monitoring of reported defects
+* Firebase-backed application services
+
+**Technology**
+
+`Flutter` `Firebase` `Camera API` `GPS` `Maps`
 
 </details>
 
-<br />
+<br/>
 
 <details open>
-<summary><b>🌾 AgroFiesta</b> · AI • Agriculture • Mobile Development</summary>
-<br />
+<summary><b>🌾 AgroFiesta</b> — AI • Agriculture • Mobile Development</summary>
 
-A smart agriculture application designed to provide farmers with accessible crop information and digital tools.
+<br/>
 
-- Farmer-focused and simple interface
-- Crop information and agricultural insights
-- Designed for rural accessibility, scalability, and practical usability
+A smart agriculture application designed to provide farmers with **accessible crop information and digital tools**.
 
-<code>Flutter</code> <code>Android</code> <code>Firebase</code> <code>REST APIs</code>
+**Highlights**
+
+* Farmer-focused and simple interface
+* Crop information and agricultural insights
+* Digital tools designed for practical usability
+* Focus on rural accessibility and scalability
+
+**Technology**
+
+`Flutter` `Android` `Firebase` `REST APIs`
 
 </details>
 
-<br />
+---
+
+# 🔥 Current Focus
 
 <div align="center">
-  <a href="https://github.com/somveersingh-23?tab=repositories">
-    <img src="https://img.shields.io/badge/View_All_Projects-7C3AED?style=for-the-badge&logoColor=white&labelColor=0F172A" alt="View all projects" />
-  </a>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=700&color=A78BFA&center=true&vCenter=true&width=850&lines=Building+RAG-powered+applications;Experimenting+with+LLM+workflows;Designing+agentic+AI+systems;Deploying+AI+models+with+cloud+tools;Researching+AI+for+real-world+impact" alt="Animated current focus"/>
+
 </div>
 
-<!-- ============================================================ -->
-<!--   CURRENTLY EXPLORING                                         -->
-<!-- ============================================================ -->
+<table>
+<tr>
+<td width="50%">
 
-## 🎯 Currently Exploring
+### 🧠 AI
+
+* Advanced Machine Learning
+* Deep Learning
+* NLP
+* Transformers
+* LLMs
+* Prompt Engineering
+* Generative AI
+* RAG
+* Embeddings
+* Vector Search
+* Agentic AI
+
+</td>
+
+<td width="50%">
+
+### ⚙️ Engineering
+
+* Backend & APIs
+* Cloud Deployment
+* DevOps
+* Software Architecture
+* Intelligent Applications
+* Production-oriented AI
+* Research-oriented ML
+* Healthcare AI
+* Agriculture AI
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🧩 My Engineering Philosophy
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=700&color=A78BFA&center=true&vCenter=true&width=740&lines=Building+RAG-powered+applications;Experimenting+with+LLM+workflows;Designing+agentic+AI+systems;Deploying+AI+models+with+cloud+tools;Researching+AI+for+real-world+impact" alt="Currently exploring animation" />
+
+```text
+        ┌──────────┐
+        │  LEARN   │
+        └────┬─────┘
+             ↓
+        ┌──────────┐
+        │  BUILD   │
+        └────┬─────┘
+             ↓
+        ┌──────────┐
+        │EXPERIMENT│
+        └────┬─────┘
+             ↓
+        ┌──────────┐
+        │ IMPROVE  │
+        └────┬─────┘
+             ↺
+```
+
+### **Learn → Build → Experiment → Improve**
+
 </div>
 
-- Advanced machine learning and deep learning
-- NLP, LLMs, transformers, and prompt engineering
-- Generative AI, RAG, embeddings, and vector search
-- Agentic AI and tool-using intelligent systems
-- Backend, API, cloud, and DevOps development
-- Research-oriented machine learning for healthcare and agriculture
+I enjoy taking a problem from an initial idea to a working software solution while continuously improving my understanding of **AI, engineering, architecture, and system design**.
 
-<!-- ============================================================ -->
-<!--   GITHUB ACTIVITY / STATS                                     -->
-<!-- ============================================================ -->
+---
 
-## 📊 GitHub Activity
+# 📊 GitHub Analytics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=somveersingh-23&show_icons=true&hide_border=true&bg_color=0f172a&title_color=67e8f9&icon_color=a78bfa&text_color=e2e8f0&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somveersingh-23&layout=compact&hide_border=true&bg_color=0f172a&title_color=67e8f9&text_color=e2e8f0" alt="Top programming languages" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=somveersingh-23&show_icons=true&hide_border=true&bg_color=020617&title_color=67E8F9&icon_color=A78BFA&text_color=E2E8F0&rank_icon=github&include_all_commits=true" alt="Somveer Singh GitHub statistics"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somveersingh-23&layout=compact&hide_border=true&bg_color=020617&title_color=67E8F9&text_color=E2E8F0&langs_count=8" alt="Most used programming languages"/>
+
 </div>
 
-<br />
+<br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=somveersingh-23&hide_border=true&background=0F172A&ring=7C3AED&fire=FB7185&currStreakLabel=67E8F9&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="GitHub contribution streak" />
+
+<img src="https://streak-stats.demolab.com?user=somveersingh-23&hide_border=true&background=020617&ring=7C3AED&fire=FB7185&currStreakLabel=67E8F9&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="GitHub contribution streak"/>
+
 </div>
 
-<br />
+---
+
+# 🌐 Let's Connect
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=somveersingh-23&bg_color=0f172a&color=67e8f9&line=7c3aed&point=f8fafc&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
+
+### Interested in AI, software engineering, research, or building something meaningful?
+
+<br/>
+
+<a href="https://singh-somveer.netlify.app/">
+<img src="https://img.shields.io/badge/🌍%20VISIT%20MY%20PORTFOLIO-7C3AED?style=for-the-badge&labelColor=020617" alt="Portfolio"/>
+</a>
+
+<a href="https://www.linkedin.com/in/somveer-singh-0205971ab/">
+<img src="https://img.shields.io/badge/💼%20CONNECT%20ON%20LINKEDIN-06B6D4?style=for-the-badge&labelColor=020617" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/somveersingh-23">
+<img src="https://img.shields.io/badge/💻%20EXPLORE%20MY%20GITHUB-F8FAFC?style=for-the-badge&labelColor=020617&logo=github&logoColor=000000" alt="GitHub"/>
+</a>
+
+<a href="mailto:kaidwal.somveer@gmail.com">
+<img src="https://img.shields.io/badge/📧%20SEND%20ME%20AN%20EMAIL-F43F5E?style=for-the-badge&labelColor=020617" alt="Email"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:312e81,100:06b6d4&height=2&section=footer" width="70%" alt="Footer divider"/>
+
+<br/><br/>
+
+### ⭐ Build. Learn. Ship. Repeat.
+
 </div>
 
-<br />
+<br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=somveersingh-23&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub trophies" />
-</div>
 
-<!-- ============================================================ -->
-<!--   APPROACH / PHILOSOPHY                                       -->
-<!-- ============================================================ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,35:7c3aed,70:312e81,100:020617&height=130&section=footer&animation=fadeIn" width="100%" alt="Animated profile footer"/>
 
-## 💡 My Approach
-
-> **Learn → Build → Experiment → Improve**
-
-I enjoy taking a problem from an initial idea to a working software solution, while continuously deepening my understanding of AI, engineering, and system design along the way. I care about writing code that is clean, systems that are reliable, and products that solve problems people actually have.
-
-<!-- ============================================================ -->
-<!--   CONNECT                                                     -->
-<!-- ============================================================ -->
-
-## 🌐 Connect With Me
-
-<div align="center">
-  <a href="https://singh-somveer.netlify.app/"><img src="https://img.shields.io/badge/🌍_Portfolio-7C3AED?style=for-the-badge&labelColor=0F172A" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/somveer-singh-0205971ab/"><img src="https://img.shields.io/badge/💼_LinkedIn-06B6D4?style=for-the-badge&labelColor=0F172A" alt="LinkedIn" /></a>
-  <a href="https://github.com/somveersingh-23"><img src="https://img.shields.io/badge/💻_GitHub-F8FAFC?style=for-the-badge&labelColor=0F172A" alt="GitHub" /></a>
-  <a href="mailto:kaidwal.somveer@gmail.com"><img src="https://img.shields.io/badge/📧_Email-FB7185?style=for-the-badge&labelColor=0F172A" alt="Email" /></a>
-</div>
-
-<br />
-
-<div align="center">
-  <i>Thanks for stopping by — feel free to explore my repositories, star what you find useful, and reach out if you'd like to collaborate! 🚀</i>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,35:7c3aed,70:312e81,100:0f172a&height=140&section=footer&animation=fadeIn" width="100%" alt="Animated profile footer" />
 </div>
